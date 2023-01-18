@@ -118,3 +118,57 @@ Modules
 -------------------------------
 import module
 from..import module
+
+Collections/Datatypes in Python
+---------------------------------------
+Datatype: type of data
+Standard datatypes/collection objects:
+    Numbers-int,float
+    String- name="Hello"
+    Boolean - True/False
+
+    List
+    Tuple
+    Dictionary
+    Set
+-How to define?
+-Diff/Same type
+-duplicate values?
+-Mutable/update?
+-Insertion order same?
+
+List
+--------------------------
+-defined by []
+    lst=[10,20,30,40,50]
+-can store different types of datas
+-can store duplicate values
+
+
+
+1.find 5 is present in the list or not?
+2.Perform binary search in list?
+Linear search:
+    lst=[10,20,1,2,3,4,5]
+Binary search:
+    lst=[10,20,1,2,3,4,5]
+    [1,2,3,4,5,10,20]
+    #5
+    [5,10,20]
+    #5
+    [5]
+    5==5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
