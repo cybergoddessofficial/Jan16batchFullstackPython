@@ -90,9 +90,31 @@ for loop
 5.calculate sum of even and odd numbers seperately
 6.print prime no's b/w limits
 
-jumping
+jumping statements
 ------------------------
 break- stop the loop
 continue - skip the current iteration
 
+Functions
+--------------------------------
+syntax:
+    def <function_name>(arg1,arg2...arg n):
+        <function_body>
+    def demo():
+        print("hello")
+    demo() #function call
 
+
+print()-display msg
+input()-read value
+int()-typecast to int
+
+1.functions without return values
+2.functions with parameters/arguments
+3.functions without parameters/arguments
+4.functions with return values
+
+Modules
+-------------------------------
+import module
+from..import module
