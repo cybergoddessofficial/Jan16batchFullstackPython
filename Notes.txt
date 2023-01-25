@@ -131,6 +131,7 @@ Standard datatypes/collection objects:
     Tuple
     Dictionary
     Set
+
 -How to define?
 -Diff/Same type
 -duplicate values?
@@ -143,7 +144,8 @@ List
     lst=[10,20,30,40,50]
 -can store different types of datas
 -can store duplicate values
-
+-mutable/can update
+-Insertion order is same
 
 
 1.find 5 is present in the list or not?
@@ -158,4 +160,7 @@ Binary search:
     #5
     [5]
     5==5
+
+
+
 
