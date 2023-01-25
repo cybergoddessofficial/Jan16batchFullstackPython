@@ -1,0 +1,35 @@
+Python Collections/Datatypes in python
+----------------------------------
+    Numbers-int,float
+    String- name="Hello"
+    Boolean - True/False
+Collection Objects:
+    List
+    Tuple
+    Dictionary
+    Set
+
+List
+------------
+-similar to array
+-collection object
+-can store multiple values with different datatypes
+-can be defined by []
+    ex:
+            lst=[10,20,30,40,50,60]
+-since insertion order is same,we can use indexing method
+-we can update the list(the list is mutable)
+-we can store duplicates values
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -7,3 +7,8 @@ print(lst)
 print(lst[2]) #indexing of list
 #indexing starts from 0- (n-1)
 #8 : 0-7
+print(lst[4])
+del(lst[4])
+print(lst)
+lst.pop(2) 
+print(lst)
