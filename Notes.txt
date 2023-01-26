@@ -161,6 +161,30 @@ Binary search:
     [5]
     5==5
 
+Linear Data Structures
+--------------------------
+elements are stored in consecutive m/m location
+ex: stack
+Stack follows LIFO princples
+LIFO-Last In First Out
+Insert-Push
+Remove-Pop
+first element is stored in stack[top] 
+top+=1
 
 
+Tuple
+-------------------
+-tuple is defined by ()
+-can store different types of data
+-can store duplicate values
+-can't update or immuatable
 
+Set
+---------------------
+-Unordered collection of items
+-can be defined by {}
+-Insertion order is not same
+-Indexing is not possible
+-mutable
+-can't store duplicate values
