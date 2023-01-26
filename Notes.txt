@@ -251,7 +251,11 @@ append
 #number of movies released in a year - film.txt
 
 
-
+rstrip
+----------------
+\n
+end of a String
+trailing character
 
 
 
