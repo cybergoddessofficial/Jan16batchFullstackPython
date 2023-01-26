@@ -232,7 +232,48 @@ mark
 Ques: 
 text="ABBCCC"
 
-find first recursive character 
+find first recursive character
+
+
+---------------------------------
+File Operations
+--------------------------------------
+.txt
+files are used to store datas
+
+read
+write
+append
+
+
+
+#count words in file-hai.txt
+#number of movies released in a year - film.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

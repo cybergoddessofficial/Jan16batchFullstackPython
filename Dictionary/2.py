@@ -1,6 +1,6 @@
 text="hello hi hai hello hi how"
 print(text)
-words=text.split(" ")
+words=text.split(" ")#list 
 print(words)
 dict={}#{"hello":2,"hi":2,"hai":1,"how":1}
 for i in words: #'hello', 'hi', 'hai', 'hello', 'hi', 'how'
