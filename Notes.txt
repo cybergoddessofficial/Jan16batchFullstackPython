@@ -188,3 +188,55 @@ Set
 -Indexing is not possible
 -mutable
 -can't store duplicate values
+Ex: s={10,20,30,40}
+
+
+Dictionary
+-------------------------------
+-defined by {}
+-key:values pairs
+
+    Key:Value
+    "id":100,
+    "name":"Rahul",
+    "Designation":"Senior Developer",
+    "Salary":36000
+
+Key : id,name,Designation,Salary
+Values:100,Rahul,Senior Developer,36000
+
+-key must be unique
+-we can access values using corresponding keys
+-can update/mutable
+
+Student
+---------------
+id
+name
+mark
+
+1.print the Dictionary
+2.print name of Student
+3.add new field "Course"
+4.add 10 to mark
+5.
+    id : 101
+    name:nimisha
+    mark:200
+    course:MCA
+5.check wheather key "mark" is present or not
+
+
+
+#Task
+Ques: 
+text="ABBCCC"
+
+find first recursive character 
+
+
+
+
+
+
+
